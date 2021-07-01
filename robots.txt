@@ -7,4 +7,4 @@ Disallow: /assets/
 Disallow: /_data/
 Allow: /
 
-sitemap: https://en.abdelhafidelazouzi.github.io/sitemap.xml
+sitemap: https://abdelhafidelazouzi.github.io/en/sitemap.xml
