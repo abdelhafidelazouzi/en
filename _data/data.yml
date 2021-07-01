@@ -130,7 +130,7 @@ career-objectif:
 career-profile:
     title: "Career summary"
     summary: |
-      Passionate about computer networks <strong>(infrastructure, administration, system and security),</strong> with a relevant experience of more than <script>var d = new Date(); document.write(d.getUTCFullYear()-2012);</script> years in these areas.
+      Passionate about computer networks <strong>(infrastructure, administration, system and security),</strong> with a relevant experience of more than <span class="oldtime1"></span><script>var datenew = new Date(); var calcdate = datenew.getUTCFullYear(); var hhh = calcdate - 2012; $(".oldtime1").text(hhh);</script> years in these areas.
       My commitment and ability to achieve ambitious goals are recognized.
       I have been involved in a large installation, migration, configuration and design projects with excellent results in efficiency and swiftness.
       <br><br>
