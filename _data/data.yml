@@ -1,0 +1,677 @@
+sidebar:
+#############################################################################################
+####################################  404  ##################################################
+#############################################################################################
+    title404: "Page not found"
+    p1404: "Sorry, the page you're looking for doesn't exist"
+    menu404: "Return to the home page"
+#############################################################################################
+#################################  Profile information  #####################################
+#############################################################################################
+    tagline0: "Analyst and consultant in (IT | Network | Infrastructure | Architecture)"
+    tagline1: "Computer systems and networks administrator (Linux | Cisco)"
+    htmllang: "en-EN"
+    fr: "Français"
+    en: "English"
+    pf: "Profile of Abdelhafid ELAZOUZI"
+    altfr: "Profile in French"
+    alten: "Profil en Anglais"
+    link: "https://en.abdelhafidelazouzi.github.io"
+    img: "Abdelhafid ELAZOUZI.png"
+    imgw: "320"
+    imgh: "320"
+#############################################################################################
+#######################################  licenses  ##########################################
+#############################################################################################
+    lic: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en"
+    design: "Designed by Abdelhafid ELAZOUZI"
+    droit: "All rights reserved  &copy; 2020"
+    cont: "The content of the portfolio is made available under <br>the terms of the Creative Commons license"
+    licence2: "Attribution to Abdelhafid ELAZOUZI"
+    licence1: "No commercial use"
+    licence3: "Share on same international terms 4.0"
+#############################################################################################
+####################################  links  ################################################
+#############################################################################################
+    name: "Abdelhafid ELAZOUZI"
+    linkfr: "https://fr.abdelhafidelazouzi.github.io"
+    linken: "https://en.abdelhafidelazouzi.github.io"
+    email: "hafid.elazouzi@gmail.com"
+    phone: "+212 6 70 09 96 44"
+    website: #blog.webjeda.com #do not add http://
+    linkedin: "abdelhafid-elazouzi"
+    github: "abdelhafidelazouzi"
+    youtube:
+    viadeo:
+    instagram:
+    telegram: #add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: #'@webjeda'
+    stack-overflow: #Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: #Number-Username, e.g. 123456-alandoe
+#############################################################################################
+####################################  langues  ##############################################
+#############################################################################################
+    lang: "Languages"
+    languages:
+      - idiom: "Arab"
+        level: "Maternal"
+      - idiom: "English"
+        level: "Intermediate"
+      - idiom: "French"
+        level: "Excellent fluency (spoken and written)"
+#############################################################################################
+####################################  intérêt  ##############################################
+#############################################################################################
+    inter: "Interest areas"
+    interests:
+      - item: "Technological trends"
+      - item: "Musical mixing"
+      - item: "Video games"
+      - item: "DIY"
+
+    apti: "Abilities"
+    aptes:
+      - idiom: "Listening and communication skills"
+      - idiom: "Ability to anticipate and organize"
+      - idiom: "Easy integration and adaptation"
+      - idiom: "Responsible and active at work"
+      - idiom: "Analysis and synthesis mind"
+      - idiom: "Team and initiative spirit"
+      - idiom: "Perseverance"
+      - idiom: "Autonomous"
+      - idiom: "Enthusiastic"
+      - idiom: "Meticulous"
+      - idiom: "Dynamic"
+      - idiom: "Versatile"
+      - idiom: "Sociable"
+      - idiom: "Curious"
+
+    ben: "Volunteer activities"
+    beneves:
+      - time: "01/2012 to this day"
+        company: "National School of Applied Sciences (Marrakech) - Morocco, Cadi Ayyad University"
+        details:
+         - task: "Supervise and support students in their presentations of dissertations and their end-of-study projects"
+         - task: "Guide and assist trainees in the technical writing of their graduation dissertations"
+
+    comp: "Additional informations"
+    complemes:
+      - info: "Moroccan driving licence"
+        corp: "Category (B) issued on 13/06/2013"
+
+      #- info: "Quebec selection certificate"
+      #  corp: "Qualified worker category, issued on 12/05/2018"
+
+      - info: "Extra-professional activities"
+        details:
+         - task: "2012/2013 : Hosting conferences for the LINUX PARTY day at ISTA NTIC SYBA (Marrakech) - Morocco"
+         - task: "Topics : (Open source and innovation in Morocco), (Linux development in Morocco)"
+
+      - info: "Extra-school activities"
+        details:
+         - task: "2010/2011 : Prepare the workshops and chair the organizing committee of the LINUX PARTY day at ISTA NTIC SYBA (Marrakech) - Morocco"
+#############################################################################################
+################################  Objectif de carrière  #####################################
+#############################################################################################
+career-objectif:
+    title: "Career goal"
+    summary: |
+      Equipped with a diverse know-how and a very rich and varied technical background.
+      Wishing to use my talents, abilities, ambitions and skills in a professional work environment.
+      <br><br>
+      Thirsty for learning and self-study, ready for new challenges and motivated for new opportunities.
+      <strong>Interested in infrastructures design and computers parks administration.</strong>
+#############################################################################################
+################################  Résumé de carrière  #######################################
+#############################################################################################
+career-profile:
+    title: "Career summary"
+    summary: |
+      Passionate about computer networks <strong>(infrastructure, administration, system and security),</strong> with a relevant experience of more than <script>var d = new Date(); document.write(d.getUTCFullYear()-2012);</script> years in these areas.
+      My commitment and ability to achieve ambitious goals are recognized.
+      I have been involved in a large installation, migration, configuration and design projects with excellent results in efficiency and swiftness.
+      <br><br>
+      I have a versatile training and expertise in the <strong>management of services and network equipments</strong> and I handle <strong>Linux based systems and solutions perfectly.</strong>
+      So I can combine several heterogeneous environments with different concepts.
+      I don't hesitate to share my knowledge with others and I know how to evaluate the time necessary to complete projects until the end.
+#############################################################################################
+#######################################  Formations  ########################################
+#############################################################################################
+edu: "Educations"
+education:
+    - degree: "Certificate of course completion (Cisco Networking Academy)"
+      linkdeg: "https://www.netacad.com"
+      time: "04/2020 to 05/2020"
+      details:
+              - dipname: "Introduction to Cybersecurity"
+                linkdip: "en-AbdelhafidELAZOUZI-Introduction to Cybersecurity.pdf"
+              - dipname: "Cybersecurity Essentials"
+                linkdip: "en-AbdelhafidELAZOUZI-Cybersecurity Essentials.pdf"
+              - dipname: "NDG Linux Unhatched"
+                linkdip: "en-AbdelhafidELAZOUZI-NDG Linux Unhatc-certificate.pdf"
+              - dipname: "Introduction to IoT"
+                linkdip: "en-AbdelhafidELAZOUZI-Introduction to IoT.pdf"
+
+    - degree: "Professional bachelor degree in Networks and Security of Computer Systems"
+      linkdeg: "http://candidaturelp-fssm.uca.ma/filieres/LP-R2SI_Presentation.pdf"
+      university: "Faculty of Sciences Semlalia (Marrakech) - Morocco, Cadi Ayyad University"
+      linkuniv: "https://www.uca.ma/fssm"
+      time: "09/2018 to 07/2019"
+      #equiv: "Equivalence in Quebec : Specialized baccalaureate, 1st university cycle"
+      mention: "Grade : Good"
+      prix: "Award : Major of the promotion"
+
+    - degree: "Strengthening courses in english"
+      university: "The Center of Languages and Cultures (Marrakech) - Morocco"
+      linkuniv: "https://www.clcmorocco.org"
+      time: "04/2015 to 06/2018"
+      equiv: "CEFR equivalence : B1"
+      mention: "Level : Intermediate 6"
+
+    - degree: "Technician Specialized in Computer Network Techniques"
+      linkdeg: "https://www.ofppt.ma/en/branches/computer-networking-techniques"
+      university: "Specialized Institute of Applied Technology NTIC Sidi Youssef Ben Ali (Marrakech) - Maroc, OFPPT"
+      linkuniv: "https://www.ofppt.ma/en/institutions/specialized-institute-applied-technology-ntic-sidi-youssef-ben-ali-marrakech"
+      time: "09/2009 to 07/2011"
+      #equiv: "Equivalence in Quebecc : Technical college diploma"
+      mention: "Grade : Very good"
+      prix: "Award : Major of promotion and excellence classes"
+#############################################################################################
+###################################  Certifications  ########################################
+#############################################################################################
+cert: "Certifications"
+certif:
+    - degree: "CSF (Cyber Security Foundation) - Certiprof"
+      linkdeg: "https://certiprof.com/pages/cyber-security-foundation-csfpc"
+      time: "11/2020 to 12/2020"
+      details:
+              - certname: "CSFPC (Cyber Security Foundation Professional Certificate)"
+                linkcert: "AbdelhafidELAZOUZI-CSFPC.pdf"
+
+    - degree: "ICSI (International Cyber Security Institute)"
+      linkdeg: "https://www.icsi.co.uk"
+      time: "04/2020 to 05/2020"
+      details:
+              - certname: "CNSS (Certified Network Security Specialist)"
+                linkcert: "AbdelhafidELAZOUZI-CNSS.pdf"
+
+    - degree: "CyberArk"
+      linkdeg: "https://training.cyberark.com/exam/level-1-Trustee/"
+      time: "03/2020 to 04/2020"
+      details:
+              - certname: "CyberArk Certified Trustee : Level 1"
+                linkcert: "AbdelhafidELAZOUZI-Trustee.pdf"
+
+    - degree: "Fortinet NSE (Network Security Expert)"
+      linkdeg: "https://training.fortinet.com/local/staticpage/view.php?page=certifications"
+      time: "03/2020 to 04/2020"
+      details:
+              - certname: "Network Security Associate 1"
+                linkcert: "AbdelhafidELAZOUZI-NSE1.pdf"
+              - certname: "Network Security Associate 2"
+                linkcert: "AbdelhafidELAZOUZI-NSE2.pdf"
+
+    - degree: "MOS (Microsoft Office Specialist) - Certiport (Pearson vue)"
+      linkdeg: "https://certiport.pearsonvue.com/Certifications/Microsoft/MOS/Certify/MOS-2013.aspx"
+      time: "05/2017 to 06/2017"
+      details:
+              - certname: "77-422 : PowerPoint 2013 Core"
+                linkcert: "AbdelhafidELAZOUZI-Office PowerPoint 2013.pdf"
+              - certname: "77-420 : Excel 2013 Core"
+                linkcert: "AbdelhafidELAZOUZI-Office Excel 2013.pdf"
+              - certname: "77-418 : Word 2013 Core"
+                linkcert: "AbdelhafidELAZOUZI-Office Word 2013.pdf"
+
+    - degree: "OPENCLASSROOMS certifications - French MOOC - in the areas"
+      linkdeg: "https://openclassrooms.com/en/"
+      time: "Since 12/2016"
+      details:
+              - theme: "Web development"
+                level:
+                  - certname: "Web integrator"
+                    linkcert: "Intégrateur Web.pdf"
+                  - certname: "Start your own website"
+                    linkcert: "Lancer son propre site web.pdf"
+                  - certname: "Create modern CSS animations"
+                    linkcert: "Créez des animations CSS modernes.pdf"
+                  - certname: "Manage your databases with MySQL"
+                    linkcert: "Administrez vos bases de données avec MySQL.pdf"
+                  - certname: "The keys to a successful web referencing"
+                    linkcert: "Les clés pour réussir son référencement web.pdf"
+                  - certname: "Design your website with PHP and MySQL"
+                    linkcert: "Concevez votre site web avec PHP et MySQL.pdf"
+                  - certname: "Create interactive web pages with JavaScript"
+                    linkcert: "Créez des pages web interactives avec JavaScript.pdf"
+                  - certname: "Simplify your JavaScript developments with jQuery"
+                    linkcert: "Simplifiez vos développements JavaScript avec jQuery.pdf"
+                  - certname: "Learn how to create your website with HTML5 and CSS3"
+                    linkcert: "Apprenez à créer votre site web avec HTML5 et CSS3.pdf"
+                  - certname: "Increase your traffic with natural search engine optimization (SEO)"
+                    linkcert: "Augmentez votre trafic grâce au référencement naturel (SEO).pdf"
+
+              - theme: "Design & Conception"
+                level:
+                  - certname: "Design a clickable interface"
+                    linkcert: "Concevez une interface cliquable.pdf"
+                  - certname: "Create visuals with Illustrator"
+                    linkcert: "Créez des visuels avec Illustrator.pdf"
+                  - certname: "Cut out and integrate a model"
+                    linkcert: "Découpez et intégrez une maquette.pdf"
+                  - certname: "Improve the impact of your presentations"
+                    linkcert: "Améliorez l'impact de vos présentations.pdf"
+                  - certname: "Model your responsive website with Photoshop"
+                    linkcert: "Maquettez votre site responsive avec Photoshop.pdf"
+                  - certname: "Create a mockup of a mobile application with Adobe XD"
+                    linkcert: "Réalisez la maquette d'une application mobile avec Adobe XD.pdf"
+
+              - theme: "Systems & Networks"
+                level:
+                  - certname: "Windows 10 for the company"
+                    linkcert: "Windows 10 pour l'entreprise.pdf"
+                  - certname: "Discover the DevOps methodology"
+                    linkcert: "Découvrez la méthodologie DevOps.pdf"
+                  - certname: "Simulate network architectures with GNS3"
+                    linkcert: "Simulez des architectures réseaux avec GNS3.pdf"
+                  - certname: "Manage your Linux server and its services"
+                    linkcert: "Gérez votre serveur Linux et ses services.pdf"
+                  - certname: "Use Ansible to automate your configuration tasks"
+                    linkcert: "Utilisez Ansible pour automatiser vos tâches de configuration.pdf"
+                  - certname: "Optimize your deployment by creating containers with Docker"
+                    linkcert: "Optimisez votre déploiement en créant des conteneurs avec Docker.pdf"
+
+              - theme: "IT security"
+                level:
+                  - certname: "Secure your applications"
+                    linkcert: "Sécurisez vos applications.pdf"
+                  - certname: "Secure your infrastructures"
+                    linkcert: "Sécurisez vos infrastructures.pdf"
+                  - certname: "Secure your data with cryptography"
+                    linkcert: "Sécurisez vos données avec la cryptographie.pdf"
+                  - certname: "Discover the basics of digital security"
+                    linkcert: "Découvrez les bases de la sécurité numérique.pdf"
+                  - certname: "Define your company's security policy"
+                    linkcert: "Définissez la politique de sécurité de votre entreprise.pdf"
+                  - certname: "Protect all of your data on your computer"
+                    linkcert: "Protégez l'ensemble de vos données sur votre ordinateur.pdf"
+                  - certname: "Secure your network with VPNs and Firewall"
+                    linkcert: "Sécurisez votre réseau grâce aux VPN et Firewall.pdf"
+                  - certname: "Protect all of your communications on the Internet"
+                    linkcert: "Protégez l'ensemble de vos communications sur Internet.pdf"
+#############################################################################################
+##############################  Expériences professionnelles  ###############################
+#############################################################################################
+exp: "Professional experiences"
+experiences:
+    - role: "System and network administrator"
+      linkrole: "https://en.wikipedia.org/wiki/System_administrator"
+      time: "01/2012 to this day"
+      company: "National School of Applied Sciences (Marrakech) - Morocco, Cadi Ayyad University"
+      linkcomp: "https://www.ensa.ac.ma"
+      title: "Manage the IT and Network department"
+      details:
+              - task: "Install, configure, administer, secure and supervise the services and the active equipments"
+              - task: "Inspect, analyze and improve network performances (internet traffic and access security)"
+              - task: "Collaborate and participate in the technical writing of IT references and specifications"
+              - task: "Control, deploy, equip, organize and prepare computers rooms for the practical works"
+              - task: "Design and elaborate plans for the layout and interconnection of the computer park"
+              - task: "Lead and cooperate in network infrastructure cabling and qualification projects"
+              - task: "Review, study and validate technicals conformities of computers equipments"
+              - task: "Define, adapt and execute migration procedures and security policies"
+              - task: "Diagnose, identify and resolve problems (hardware and software)"
+              - task: "Plan and lead the work of the intervention teams"
+
+    - role: "Computer network technical trainer"
+      time: "09/2011 to 07/2012"
+      company: "Institute of Visual Communication and Human Development SCIENCES COM (Marrakech) - Morocco"
+      title: "Provide accelerated training and support courses in the modules"
+      details:
+              - task: "Office tools"
+              - task: "Cisco CCNA V4"
+              - task: "Computer repairing"
+              - task: "Linux administration"
+#############################################################################################
+#################################  Stages professionnelles  #################################
+#############################################################################################
+sta: "Professional internships"
+stages:
+    - title: "End of studies internship"
+      local: "National School of Applied Sciences (Marrakech) - Morocco, Cadi Ayyad University"
+      objet: "To obtain the degree : Professional bachelor degree in Networks and Security of Computer Systems"
+      time: "05/2019 to 06/2019"
+      projet: "Project title : Study and implementation of an integral solution <br>(virtualization, storage, supervision and security) at ENSA Marrakech"
+
+    - title: "Application and improvement internship"
+      local: "Company UNITEKAM (Marrakech) - Morocco"
+      work: "Sales agent, maintenance technician, support operator and help desk assistant"
+      time: "10/2011 to 11/2011"
+      details:
+         - task: "Assist and verify hardware and connectivity issues for customer support"
+         - task: "Respond and process customer service requests and complaints"
+         - task: "Intervene and provide problems detection and resolution service"
+         - task: "Monitor incidents and anomalies of production servers for client"
+         - task: "Sell computer hardwares and network equipments"
+         - task: "Maintain and repair computers and laptops"
+
+    - title: "End of studies internship"
+      local: "Faculty of Sciences Semlalia (Marrakech) - Morocco, Cadi Ayyad University"
+      objet: "To obtain the degree : Technician Specialized in Computer Network Techniques"
+      time: "04/2019"
+      projet: "Project title : Study and install a Nagios based network supervision and administration <br>platform (FAN: FULLY AUTOMATED NAGIOS), within the faculty's LAN network"
+
+    - title: "Initiation and observation internship"
+      local: "Company NETDEV (Marrakech) - Morocco"
+      work: "Networks cabler and installer"
+      time: "03/2011"
+      details:
+         - task: "Contribute to the cabling operations of computers and electrical networks"
+         - task: "Study infrastructures and document customers need for cabling"
+         - task: "Assemble central units and upgrade operating systems"
+         - task: "Interconnect active and passive network equipments"
+#############################################################################################
+#################################  Projets professionnelles  ################################
+#############################################################################################
+projects:
+    title: "Professional projects"
+    assignments:
+      - title: "Setting up a SaaS cloud backup server with ownCloud"
+        img: "OwnCloud-en.svg"
+        tagline:
+          - task: "Integration of LDAP authentication with login and email"
+          - task: "Brute force protection after multiple failed attempts"
+          - task: "Managing network attached storage with WebDAV"
+          - task: "Share protected with a password and timeout"
+          - task: "Encryption and automatic file backup"
+          - task: "Disk quota management"
+
+      - title: "Implementation of a centralized storage system based in FreeNAS"
+        img: "FreeNAS-en.svg"
+        tagline:
+          - task: "Replicate and transfer volumes with HTTPS via random tokens"
+          - task: "Configure software and hardware RAID against disk failures"
+          - task: "Outsourcing storage of hypervisor with NFS sharing"
+          - task: "Setting up instant tasks for data auto replication"
+          - task: "Status monitoring of hard drives via S.M.A.R.T"
+          - task: "Creation of DataSets for permissions control"
+          - task: "Link aggregation in Failover interfaces"
+          - task: "Creating Volumes with ZFS File System"
+
+      - title: "Implementation of a hypervisors cluster based on Proxmox VE"
+        img: "Proxmox-en.svg"
+        tagline:
+          - task: "High availability, hyper convergence and synchronization with SSH"
+          - task: "Aggregation of links in failover interfaces for high performance"
+          - task: "Automatic backup of states and parameters of virtual machines"
+          - task: "Cluster grouping of hypervisors for fault tolerance"
+          - task: "Transfer disks between cluster nodes"
+          - task: "Live migration of VMs in the cluster"
+          - task: "Storage of VMs on the NAS via NFS"
+          - task: "Replication of virtual machines"
+
+      - title: "Setting up a firewall cluster with Pfsense"
+        img: "Pfsense-en.svg"
+        tagline:
+          - task: "Configuring multiple WAN connections for internet distribution"
+          - task: "Configuring static and dynamic NAT with Aliases and Virtual IPs"
+          - task: "Identification, geolocation and traffic control with Ntop"
+          - task: "Configuring an intrusion detection system with SNORT"
+          - task: "High availability with VIHD groups between firewalls"
+          - task: "Load balancing between servers in the cluster pools"
+          - task: "Replicating the firewall configuration with Pfsync"
+          - task: "Configuration of filtering rules (VLAN, WAN, DMZ)"
+          - task: "Synchronization of firewalls with XMLRPC Sync"
+          - task: "Managing external authentication with RADIUS"
+          - task: "Configuring the DHCP server with failover"
+          - task: "Captive Portal with LDAP authentication"
+          - task: "Load balancing and redundancy with CARP"
+          - task: "VPN configuration with SSL certificate"
+          - task: "Bandwidth limiter with Traffic shaper"
+          - task: "Configure time rules with scheduling"
+          - task: "Web traffic blocking with Pfblocker"
+          - task: "Configuration of port forwarding"
+
+      - title: "Setting up an LDAP directory with the UNIVENTION CORPORATE SERVER"
+        img: "Univention Corporate Server-en.svg"
+        tagline:
+          - task: "Password management and restoration via email with token expiration"
+          - task: "Unify and centralize user authentication with RADIUS"
+          - task: "Automatically export and save schemas in LDIF format"
+          - task: "Configure a slave server for replication and backup"
+          - task: "Creating the tree with groups, users and machines"
+          - task: "Configure a master server with DNS records"
+
+      - title: "Implementation of a monitoring platform based on Nagios Core"
+        img: "Nagios-en.svg"
+        img1: "Nagios Architecture-en.svg"
+        img2: "Nagios Notify-en.svg"
+        tagline:
+          - task: "Configuring the NSC ++ agent with SSL for the supervision of Windows nodes"
+          - task: "Deployment of an interactive mapping system based on NDoutils and Nagvis"
+          - task: "Configuring the NRPE agent with SSL for the supervision of Linux nodes"
+          - task: "Notification of alerting by email with an SMTP relay based on Postfix"
+          - task: "Integration of plugins in Python for collecting SNMP informations"
+          - task: "Notification of alerting by SMS with an SMS gateway based on GAMMU"
+          - task: "Configuration of Net-SNMP with SNMPv3 for monitoring switches"
+          - task: "Deployment of an administrative interface based on NagiosQL"
+          - task: "Export of configs and data collected in a MySQL database"
+          - task: "Generation of graphs with RRDTOOLS, MRTG and PNP4Nagios"
+#############################################################################################
+##################################  Compétences techniques  #################################
+#############################################################################################
+tech: "Technicals skills"
+skills:
+    toolset0:
+      - name: "Javascript & jQuery"
+        level: "98%"
+      - name: "Angular"
+        level: "98%"
+      - name: "HTML5 & CSS"
+        level: "95%"
+      - name: "Sketch & Photoshop"
+        level: "60%"
+
+    toolset1:
+      - name: "Windows"
+        level: "7 / 10 / Server 2016"
+      - name: "Linux"
+        level: "Fedora / CentOS / Ubuntu / Debian / Linux Mint"
+
+    toolset2:
+      - name: "Web Design"
+        level: "Responsive, Flat"
+      - name: "Conception Frontend"
+        level: "Create and integrate models"
+
+    toolset3:
+      title: "Computer network cabling"
+      nt:
+      - name: "Fix, tighten and adjust ducts, plinths, armed hoses, cable trays, cabinets, watertight boxes"
+      - name: "Pull, wire, tag and test twisted pair copper cables and fiber optic cables"
+      - name: "Assemble, organize and connect active equipments such as"
+        level1: "Optical converters, Inverters with outlets and electrical blocks, KVM switches with LCD consoles"
+        level2: "Switches, Routers, Firewalls, Servers, SFP Modules, Storage Bays, PoE Power Adapters"
+      - name: "Tag, arrange, link and connect passive equipments such as"
+        level1: "Cable glands, Patch panels, Optical drawers with feedthrough, Rack mounting brackets"
+        level2: "Patch cords/links, SM/MM Garters, Sliding Rail Shelves, RJ45 Connectors and Sockets"
+
+    toolset13:
+      title: "Low voltage electrical wiring (Intermediates concepts)"
+      nt:
+      - name: "Designate the intensity of distributors (interrupters, compact circuit breakers and differential circuit breakers) with the sections of the electric cables"
+      - name: "Connect the electrical panel elements (junction blocks and terminals, ground strips, splitters) with the 2P+T electrical sockets"
+
+    toolset14:
+      title: "Wiring & configuration of surveillance cameras (Intermediates concepts)"
+      nt:
+      - name: "Install IP and analog cameras with the Closed Circuit Television (CCTV) power supply unit"
+      - name: "Configure Branded DVRs and NVRs (HIKVISION)"
+
+    toolset4:
+      title: "Depth knowledge in certification programs"
+      nt:
+      - name: "LPIC"
+        level: "1, 2, 3"
+      - name: "CompTIA"
+        level: "A+"
+      - name: "Microsoft"
+        level: "MTA, MCSA"
+      - name: "Cisco CCNA"
+        level: "Routing & Switching, Security"
+
+    toolset5:
+      title: "Developments & programming languages"
+      nt:
+      - name: "Web development"
+        level: "HTML5, CSS3, JavaScript, JQuery Core, JQuery UI, PHP"
+      - name: "Programming paradigms"
+        level: "Object oriented, Event (Basics)"
+      - name: "Structured programming technique"
+        level: "Algorithm (Basics)"
+      - name: "Relational database language"
+        level: "SQL (Basics)"
+      - name: "Programming languages"
+        level: "Java, C (Basics)"
+
+    toolset6:
+      title: "Mastered softwares"
+      nt:
+      - name: "Remote maintenance & administration in CLI"
+        level: "Team Viewer, DWService, Super PuTTY, mRemotNG"
+      - name: "Adobe Creative Cloud"
+        level: "Photoshop, Illustrator, Adobe XD, Dreamweaver, Acrobat Pro DC"
+      - name: "Microsoft Office"
+        level: "Access, Word, Publisher, Excel, PowerPoint, Visio, Outlook"
+      - name: "Type 1 hypervisors"
+        level: "VMware ESXi (VSphere), Hyper-V (Server), Proxmox VE"
+      - name: "Type 2 hypervisors"
+        level: "Virtual Box, VMware Workstation Pro, QEMU emulator"
+      - name: "Code editors"
+        level: "Atom, Notepad++, Sublime Text, Visual Studio Code"
+      - name: "Networks emulators & simulators"
+        level: "GNS3, Cisco Packet Tracer"
+
+    toolset7:
+      title: "Linux free working environments & mastered open source tools"
+      nt:
+      - name: "NMS supervision"
+        level: "Nagios Core, NagiosQL, Net-Snmp, Zabbix, MRTG, PNP4Nagios, Nagvis, Centreon"
+      - name: "LDAP authentication"
+        level: "Fusion Directory, Ldap Tool Box, Apache Directory Studio, phpLDAPadmin"
+      - name: "Automation of test, installation and configuration tasks"
+        level: "Ansible (PoleMarch, Ansible AWX)"
+      - name: "Security tools"
+        level: "OpenSSL, Ntop, Portsentry, Snort, GnuPg, Zenmap, Wireshark, SSHGuard"
+      - name: "Authentication directories"
+        level: "Univention Corporate Server, 389 DS, Keycloak, Freeipa"
+      - name: "SSL/TLS certificate validation and signing authorities"
+        level: "Let's Encrypt, ZeroSSL"
+      - name: "Disk cloning over the network with PXE"
+        level: "DCS DRBL Clonezilla Server"
+
+      - name: "Matrix and vector images editors"
+        level: "GIMP, Krita, Vectr, Inkscape"
+      - name: "SGBDR"
+        level: "MySQL, PostgreSQL (phpMyAdmin, PgAdmin)"
+      - name: "Web UI administration for servers"
+        level: "Webmin, Ajenti"
+      - name: "SSO authentication"
+        level: "LemonLDAP NG, Shibboleth"
+      - name: "Web servers"
+        level: "WampServer, Httpd, Apache, Nginx"
+      - name: "Equipments inventory"
+        level: "OCS Inventory, Ralph"
+      - name: "Automatic file synchronization"
+        level: "Syncthing"
+      - name: "Office Suites"
+        level: "Open Office, Libre Office"
+      - name: "Events logging"
+        level: "Rsyslog (Log Analyzer)"
+      - name: "Reservation of premises"
+        level: "GRR, MRBS"
+      - name: "Computer class management"
+        level: "Veyon"
+      - name: "Video conferencing"
+        level: "BigBlueButton"
+      - name: "SMS/GSM notification"
+        level: "GAMMU"
+      - name: "NAS network storage"
+        level: "FreeNAS"
+      - name: "SaaS cloud storage"
+        level: "OwnCloud"
+      - name: "NAC"
+        level: "PckaetFence, fusionauth"
+      - name: "Container"
+        level: "Docker (Portainer)"
+      - name: "Dynamics VLANs"
+        level: "OpenVMPS"
+      - name: "DNS Servers"
+        level: "Bind, Unbound"
+      - name: "E-learning Platform"
+        level: "Moodle"
+      - name: "FTP servers"
+        level: "Proftpd, Vsftpd"
+      - name: "Firewalls"
+        level: "Pfsense, Iptables"
+      - name: "Helpdesk"
+        level: "Glpi, GestSup"
+      - name: "Routers"
+        level: "Quagga, Vyatta"
+      - name: "IDE"
+        level: "NetBeans, Eclipse"
+
+    toolset8:
+      title: "Architectures & topologies"
+      nt:
+      - name: "Fault tolerance & link aggregations"
+      - name: "Load balancing & high availability"
+      - name: "Thin clients based on MS RDP"
+      - name: "Hyper convergence in cluster"
+      - name: "Client/Server & Master/Slave"
+      - name: "Topologies (Physical/Logical)"
+      - name: "Replication & redundancy"
+      - name: "Automatic failover"
+
+    toolset9:
+      - name: "Administration of network equipments & protocols"
+        level: "STP, VTP, CDP, LLDP, EtherChannel, Port Security, VLAN, VMPS, <br>802.1Q, 802.1x, DHCP, HSRP, NAT, PPP, Frame Relay, RIP, EIGRP, OSPF, ACL, IPSEC, SSH, SNMP, HTTPS, AAA"
+
+    toolset10:
+      - name: "Administration of network services & protocols"
+        level: "HTTP/HTTPS, FTP/SFTP, RADVD, DHCP, OpenVPN, PKI, DNS, DDNS, <br>SSH, SCP, Samba, NFS, Postfix, KDC Kerberos, Syslog, Active Directory/OpenLDAP, FreeRADIUS, RDP/VNC"
+
+    toolset11:
+      title: "Networking"
+      nt:
+      - name: "Automation of tasks with scripts (Batch MS-DOS & Bash Shell)"
+      - name: "Networks (LAN/WLAN/WAN/DMZ)"
+      - name: "Cloud computing & RAID storage"
+      - name: "Intranet/extranet/internet"
+      - name: "Networks (Private/Public)"
+      - name: "Subnetting (CIDR/VLSM)"
+      - name: "IP networks (IPV4/IPV6)"
+      - name: "NAC & Captive Portal"
+      - name: "OSI, TCP/IP models"
+      - name: "Backup/Restore"
+      - name: "Ethernet"
+
+    toolset12:
+      title: "Mastered equipments"
+      nt:
+      - name: "Cisco :"
+        level: "Catalyst 2950 / 2960 / 3550 / 3560, Router 1800 / 2800, Aironet 1130AG, Linksys, ASA 5510, WLC 4402"
+      - name: "Alcatel Lucent"
+        level: "OmniAccess 4504 WLC / 375AP outdoor, OmniSwitch L3 6850-U24X / L2 6250-P24 PoE"
+      - name: "IBM"
+        level: "KVM 1754-HC3 LCM8, LCD 7316-TF4"
+      - name: "HPE OfficeConnect"
+        level: "1820, 1930 PoE"
+      - name: "Aruba"
+        level: "IOn 1930 PoE, 2530 PoE"
+      - name: "TP-Link"
+        level: "T1600G, T1700G"
+      - name: "Fortinet"
+        level: "Fortigate 401E"
+      - name: "D-Link"
+        level: "DGS‑1510‑28X"
