@@ -1,7 +1,6 @@
 encoding: "utf-8"
 title: "Abdelhafid ELAZOUZI"
-baseurl: "/en" #change it according to your repository name
-#baseurl: "/en.abdelhafidelazouzi.github.io"
+baseurl: "/en"
 description: "Discover my portfolio, a window where I present my career in the domains of computer systems and networks. Click for more information !."
 keywords: "Abdelhafid ELAZOUZI, Portfolio, IT Analyst and Consultant, Infrastructure Analyst and Consultant, IT Network Analyst and Consultant, Linux Administrator, Systems Administrator, IT network administrator, resume, IT network technician, resume of Abdelhafid ELAZOUZI, Portfolio of Abdelhafid ELAZOUZI"
 
