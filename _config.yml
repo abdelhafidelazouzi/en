@@ -4,16 +4,13 @@ baseurl: "/en"
 description: "Discover my portfolio, a window where I present my career in the domains of computer systems and networks. Click for more information !."
 keywords: "Abdelhafid ELAZOUZI, Portfolio, IT Analyst and Consultant, Infrastructure Analyst and Consultant, IT Network Analyst and Consultant, Linux Administrator, Systems Administrator, IT network administrator, resume, IT network technician, resume of Abdelhafid ELAZOUZI, Portfolio of Abdelhafid ELAZOUZI"
 
-analytics: "G-BYF7NN5GG7"
-verify: "123"
-bing: "D071D7A049FA7A7AAD1444365043C95B"
-day: "30/06/2021"
+analytics: "UA-199735645-2"
+verify: "UBHEw2OWbJuHMqzK_5LRpME17sOjjl57LB7MHidKA6E"
 
 # Development Settings
 port: 4001
 # host: 172.20.10.3
 # host: 100.100.100.1
-# host: 192.168.100.110
 host: 192.168.1.100
 # host: 192.168.1.101
 # host: 192.168.1.200
