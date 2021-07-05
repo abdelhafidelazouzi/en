@@ -102,7 +102,7 @@ aside {padding: 30px;height: 208px;}
 .div-a {display: table;margin: auto;}
 .contact-list a {padding: 1px 10px;}
 .contact-list a svg {fill: black;}
-.div-a p {display: table;font-weight: 700;font-family: 'Quicksand', sans-serif;font-size: 14px;}
+.div-a span {display: table;font-weight: 700;font-family: 'Quicksand', sans-serif;font-size: 14px;}
 /**********************************************************/
 /**********************************************************/
 /**********************************************************/
