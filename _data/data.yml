@@ -120,7 +120,7 @@ career-objectif:
     title: "Career goal"
     summary: |
       Equipped with a diverse know-how and a very rich and varied technical background.
-      Wishing to use my talents, abilities, ambitions and skills in a professional work environment.
+      <strong>Wishing to use my talents, abilities, ambitions and skills in a professional work environment.</strong>
       <br><br>
       Thirsty for learning and self-study, ready for new challenges and motivated for new opportunities.
       <strong>Interested in infrastructures design and computers parks administration.</strong>
@@ -130,7 +130,7 @@ career-objectif:
 career-profile:
     title: "Career summary"
     summary: |
-      Passionate about computer networks <strong>(infrastructure, administration, system and security),</strong> with a relevant experience of more than <code></code> years in these areas.
+      Passionate about computer networks <strong>(infrastructure, administration, system and security),</strong> with a relevant experience of more than <strong class="code"></strong> years in these areas.
       My commitment and ability to achieve ambitious goals are recognized.
       I have been involved in a large installation, migration, configuration and design projects with excellent results in efficiency and swiftness.
       <br><br>
