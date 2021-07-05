@@ -1,33 +1,29 @@
 <head>
   <title>{{ site.title }}</title>
-  <link rel="alternate" hreflang="{{ sidebar.htmllang }}" href="{{ sidebar.link }}">
   <meta charset="utf-8">
+  <link rel="alternate" hreflang="{{ sidebar.htmllang }}" href="{{ sidebar.link }}">
   <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="Content-Language" content="{{ sidebar.htmllang }}">
-
-  <meta name="robots" content="index,follow">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="keywords" content="{{ site.keywords }}">
+  
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <meta name="revised" content="{{ sidebar.link }}, {{ site.day }}">
   <meta name="author" content="Abdelhafid ELAZOUZI">
   <meta name="copyright" content="Licence Creative Commons">
   <meta name="Subject" content="CV Abdelhafid ELAZOUZI">
   <meta name="Publisher" content="Abdelhafid ELAZOUZI">
   <meta name="Identifier-Url" content="{{ sidebar.link }}">
   <meta name="Reply-To" content="{{ sidebar.email }}">
-  <meta name="Revisit-After" content="7 days">
   <meta name="Rating" content="general">
   <meta name="Distribution" content="global">
   <meta name="Category" content="internet">
-  <meta name="googlebot" content="archive">
-  <meta name="description" content="{{ site.description }}">
-  <meta name="keywords" content="{{ site.keywords }}">
 
   <meta name="google-site-verification" content="{{ site.verify }}">
   <meta name="msvalidate.01" content="{{ site.bing }}">
 
   <!-- <link href="data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABILAAASCwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////Lv///5P////W////9v////b////W////k////y4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8I////lf////3////////////////////////////////////9////lf///wgAAAAAAAAAAAAAAAAAAAAI////vv////////////////////////////////////////////////////////++AAAACAAAAAAAAAAAAAAAlYCAgP//////////////////////////////////////////////////////gICA/wAAAJUAAAAAAAAALgAAAP0AAAD/9PT0////////////////////////////////////////////9PT0/wAAAP8AAAD9AAAALgAAAJMAAAD/AAAA/wAAAP/t7e3/////////////////////////////////7e3t/wAAAP8AAAD/AAAA/wAAAJMAAADWAAAA/wAAAP8AAAD/AAAA/1JSUv/t7e3////////////t7e3/UlJS/wAAAP8AAAD/AAAA/wAAAP8AAADWAAAA9gAAAP8AAAD/AAAA/wAAAP9ycnL//////////////////////3Jycv8AAAD/AAAA/wAAAP8AAAD/AAAA9gAAAPYAAAD/AAAA/wAAAP8AAAD/////////////////////////////////AAAA/wAAAP8AAAD/AAAA/wAAAPYAAADWAAAA/wAAAP8AAAD/hYWF/////////////////////////////////4WFhf8AAAD/AAAA/wAAAP8AAADWAAAAkwAAAP8AAAD/AAAA/4KCgv////////////////////////////////+CgoL/AAAA/wAAAP8AAAD/AAAAkwAAAC4AAAD9AAAA/wAAAP8AAAD/////////////////////////////////AAAA/wAAAP8AAAD/AAAA/QAAAC4AAAAAAAAAlQAAAP8AAAD/AAAA/3Z2dv//////////////////////dnZ2/wAAAP8AAAD/AAAA/wAAAJUAAAAAAAAAAAAAAAgAAAC+AAAA/wAAAP8AAAD/AAAA/4eHh/+Hh4f/AAAA/wAAAP8AAAD/AAAA/wAAAL4AAAAIAAAAAAAAAAAAAAAAAAAACAAAAJUAAAD9AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/QAAAJUAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALgAAAJMAAADWAAAA9gAAAPYAAADWAAAAkwAAAC4AAAAAAAAAAAAAAAAAAAAA8A8AAMADAACAAQAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAEAAIABAADAAwAA8A8AAA==" rel="icon" type="image/x-icon">
-  <link rel="shortcut icon" href="{{ site.baseurl }}/images/favicon/favicon.ico">-->
+  <link rel="shortcut icon" href="{{ site.baseurl }}/images/favicon/favicon.ico"> -->
 
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/favicon/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/favicon/favicon-32x32.png">
@@ -63,6 +59,8 @@
   <![endif]-->
 
   <script src="{{ site.baseurl }}/assets/js/jquery-1.12.4.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/analytics.js"></script>
+  
   <script>
     {% if sidebar.htmllang == "fr-FR" %}
       $('head').append('<meta property="og:locale" content="fr_FR">');
@@ -72,11 +70,10 @@
       $('head').append('<meta property="og:locale:alternate" content="fr_FR">');
     {% endif %}
   </script>
+  
   <script>
-    (function(i,s,o,g,r,a,m){
-      i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0]; a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','{{ site.baseurl }}/assets/js/analytics.js','ga');
-    ga('create', '{{ site.analytics }}', 'auto'); ga('send', 'pageview');
+    ga('create', '{{ site.analytics }}', 'auto');
+    ga('send', 'pageview');
   </script>
 
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/me.css">
@@ -87,7 +84,11 @@
       var hover = false, touch = 0; function enable() { if ( new Date()-touch < 1000 ) return; if ( hover ) return; $('body').removeClass('hoverNo').addClass('hoverOn'); hover = true; };
       function disable() { if ( !hover ) return; $('body').removeClass('hoverOn').addClass('hoverNo'); hover = false; }; function update() { touch = new Date(); };
       document.addEventListener('touchstart', update, true); document.addEventListener('touchstart', disable, true); document.addEventListener('mousemove', enable, true); enable();
-
+    });
+  </script>
+ 
+  <script>
+    $(document).ready( function() {   
       {% if sidebar.htmllang == "fr-FR" %} $(".t11 div").addClass("important"); {% else %} $(".t12 div").addClass("important"); {% endif %}
     });
   </script>
