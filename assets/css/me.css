@@ -108,7 +108,7 @@ aside {padding: 30px;height: 208px;}
 /**********************************************************/
 /**********************************************************/
 /**********************************************************/
-.glob {padding-right: 300px;background: mediumturquoise;text-align: center;}
+.glob {padding-right: 300px;background: mediumturquoise;text-align: justify;text-align-last: center;}
 nav {padding: 30px;background: #34b9b4;display: table;width: 100%;}
 .t11, .t12 {float: left;width: 50%;height: 40px;}
 .t11 a img, .t12 a img {width: 30px;height: 30px;margin-right: 10px;float: left;position: relative;top: 4px;border-radius: 100%;-ms-border-radius: 100%;-moz-border-radius: 100%;-o-border-radius: 100%;-webkit-border-radius: 100%;border: 1px solid #34b9b4;}
