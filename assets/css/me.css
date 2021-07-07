@@ -472,7 +472,7 @@ article {padding: 0 8px;background: mediumturquoise;}
 .n3 {float: left;}
 .desc h3 {margin: 10px 0;font-weight: 600;font-family: 'Montserrat', sans-serif;font-size: 14px;display: table;padding-right: 10px;}
 .n2 svg {margin-right: 0;margin-left: 6px;}
-.n2 p {font-family: 'Source Code Pro', sans-serif;word-spacing: -3px;letter-spacing: -1px;font-size: 14px;display: table;}
+.n2 p {font-family: 'Source Code Pro', sans-serif;word-spacing: -3px;letter-spacing: -1px;font-size: 14px;margin-left: 18px;}
 /**********************************************************/
 .img-glob {float: left;width: 100%;margin-top: 10px;}
 .img-cont {display: table;margin: auto;width: 100%;transition: .2s;-webkit-transition: .2s;-moz-transition: .2s;-ms-transition: .2s;-o-transition: .2s;}
