@@ -119,7 +119,7 @@ sidebar:
 career-objectif:
     title: "Career goal"
     summary: |
-      Equipped with a diverse know-how and a very rich and varied technical background.
+      Equipped with a diverse know-how, a very rich and varied technical background.
       <strong>Wishing to use my talents, abilities, ambitions and skills in a professional work environment.</strong>
       <br><br>
       Thirsty for learning and self-study, ready for new challenges and motivated for new opportunities.
@@ -129,14 +129,20 @@ career-objectif:
 #############################################################################################
 career-profile:
     title: "Career summary"
-    summary: |
-      Passionate about computer networks <strong>(infrastructure, administration, system and security),</strong> with a relevant experience of more than 10 years in these areas.
-      My commitment and ability to achieve ambitious goals are recognized.
-      I have been involved in a large installation, migration, configuration and design projects with excellent results in efficiency and swiftness.
-      <br><br>
-      I have a versatile training and expertise in the <strong>management of services and network equipments</strong> and I handle <strong>Linux based systems and solutions perfectly.</strong>
-      So I can combine several heterogeneous environments with different concepts.
-      I don't hesitate to share my knowledge with others and I know how to evaluate the time necessary to complete projects until the end.
+    summary:
+      - det: <em>Passionate about computer networks</em>
+      - det: <strong>(infrastructure, administration, system and security).</strong>
+      - det: <span>With a relevant experience of more than <code></code> years in these areas.</span>
+      - det: <em>My sense of commitment and my ability to achieve ambitious goals and missions are recognized.</em>
+      - det: <em>I have been involved during my technical and professional career in the realization of various</em>
+      - det: <strong>installation, migration, configuration and design projects.</strong>
+      - det: <br><br>
+      - det: <em>I have a multipurpose training and expertise in the</em>
+      - det: <strong>management of services and network equipments</strong>
+      - det: <em>and I handle</em>
+      - det: <strong>Linux based systems and solutions perfectly.</strong>
+      - det: <em>So I can combine and integrate several heterogeneous environments with different concepts and technologies.</em>
+      - det: <span>I don't hesitate to share my knowledge with others and I know how to evaluate the time necessary to complete projects until the end.</span>
 #############################################################################################
 #######################################  Formations  ########################################
 #############################################################################################
@@ -506,7 +512,7 @@ skills:
       title: "Wiring & configuration of surveillance cameras (Intermediates concepts)"
       nt:
       - name: "Install IP and analog cameras with the Closed Circuit Television (CCTV) power supply unit"
-      - name: "Configure Branded DVRs and NVRs (HIKVISION)"
+      - name: "Configure branded DVRs and NVRs (HIKVISION)"
 
     toolset4:
       title: "Depth knowledge in certification programs"
