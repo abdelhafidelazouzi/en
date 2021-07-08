@@ -106,7 +106,7 @@
 
     <footer>
       <p xmlns:cc="http://creativecommons.org/ns#" href="https://www.linkedin.com/in/abdelhafid-elazouzi/" property="cc:attributionName" rel="cc:attributionURL">{{ sidebar.design }}.</p>
-      <p>{{ sidebar.droit }} - <script>var d = new Date(); document.write(d.getUTCFullYear());</script>.</p>
+      <p>{{ sidebar.droit }} - {{ site.time | date: '%Y' }}.</p>
       <hr>
       <p class="pbr" xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">{{ sidebar.cont }}
         <a rel="license" href="{{ sidebar.lic }}" target="_blank"><img alt="Licence Creative Commons" src="{{ site.baseurl }}/images/(CC) BY-NC-SA.png" title="Licence Creative Commons"></a> :
