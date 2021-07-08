@@ -120,7 +120,7 @@ career-objectif:
     title: "Career goal"
     summary: |
       Equipped with a diverse know-how, a very rich and varied technical background.
-      <strong>Wishing to use my talents, abilities, ambitions and skills in a professional work environment.</strong>
+      <strong>Wishing to use my talents, abilities, ambitions, skills in a positive and professional work environment.</strong>
       <br><br>
       Thirsty for learning and self-study, ready for new challenges and motivated for new opportunities.
       <strong>Interested in infrastructures design, computers parks administration, teaching and Web design.</strong>
@@ -132,7 +132,8 @@ career-profile:
     summary:
       - det: <em>Passionate about computer networks</em>
       - det: <strong>(infrastructure, administration, system and security).</strong>
-      - det: <span>With a relevant experience of more than 10 years in these areas.</span>
+      - det: <span>With a relevant experience of more than</span>
+      - det: <span>years in these areas.</span>
       - det: <em>My sense of commitment and my ability to achieve ambitious goals and missions are recognized.</em>
       - det: <em>I have been involved during my technical and professional career in the realization of various</em>
       - det: <strong>installation, migration, configuration and design projects.</strong>
@@ -142,7 +143,8 @@ career-profile:
       - det: <em>I handle</em>
       - det: <strong>Linux based systems and solutions perfectly.</strong>
       - det: <em>So I can combine and integrate several heterogeneous environments with different concepts and technologies.</em>
-      - det: <span>I don't hesitate to share my knowledge with others and I know how to evaluate the time necessary to complete projects until the end.</span>
+      - det: <span>I don't hesitate to share my knowledge with others</span>
+      - det: <span>and I know how to evaluate the time necessary to complete projects until the end.</span>
 #############################################################################################
 #######################################  Formations  ########################################
 #############################################################################################
