@@ -113,7 +113,7 @@ nav {padding: 30px;background: #34b9b4;display: table;width: 100%;}
 .t11, .t12 {float: left;width: 50%;height: 40px;}
 .t11 a img, .t12 a img {width: 30px;height: 30px;margin-right: 10px;float: left;position: relative;top: 4px;border-radius: 100%;-ms-border-radius: 100%;-moz-border-radius: 100%;-o-border-radius: 100%;-webkit-border-radius: 100%;border: 1px solid #34b9b4;}
 /**********************************************************/
-.summary-section2 {padding: 40px;height: 384px;padding-top: 76px;}
+.summary-section2 {padding: 40px;height: 384px;padding-top: 66px;}
 .t3 {display: table;margin: auto;margin-bottom: 40px;}
 .t1 {line-height: 28px;padding-top: 2px;font-size: 22px;margin-left: 40px;font-family: 'Montserrat', sans-serif;color: #2f3132;}
 .summary p {font-size: 14px;font-family: 'Montserrat', sans-serif;}
