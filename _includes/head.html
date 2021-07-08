@@ -91,8 +91,6 @@
     $(document).ready( function() {   
       {% if sidebar.htmllang == "fr-FR" %} $(".t11 div").addClass("important"); {% else %} $(".t12 div").addClass("important"); {% endif %}
 
-      var datenew = new Date(); var calcdate = datenew.getUTCFullYear(); var globyears = calcdate - 2012; $("code").text(globyears);
-
       var mail = "{{ sidebar.email }}"; $(".email span").text(mail);
       var phone = "{{ sidebar.phone }}"; $(".phone span").text(phone);
       var linkedin = "{{ sidebar.linkedin }}"; $(".linkedin span").text(linkedin);
