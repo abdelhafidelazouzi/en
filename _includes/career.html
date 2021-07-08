@@ -7,8 +7,10 @@
   </div>
   <div class="summary"><p>
     {% for graduation in career-profile.summary %}
+        {% if forloop.index == 4 %} <span>{{ site.time | date: '%Y' | minus:2012 }}</span> {% endif %}
       {{ graduation.det }}
     {% endfor %}
   </p></div>
 </section>
 {% endif %}
+
