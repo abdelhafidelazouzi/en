@@ -667,7 +667,7 @@ skills:
     toolset12:
       title: "Mastered equipments"
       nt:
-      - name: "Cisco :"
+      - name: "Cisco"
         level: "Catalyst 2950 / 2960 / 3550 / 3560, Router 1800 / 2800, Aironet 1130AG, Linksys, ASA 5510, WLC 4402"
       - name: "Alcatel Lucent"
         level: "OmniAccess 4504 WLC / 375AP outdoor, OmniSwitch L3 6850-U24X / L2 6250-P24 PoE"
