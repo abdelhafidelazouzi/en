@@ -97,9 +97,9 @@ sidebar:
          - task: "Supervise and support students in their presentations of dissertations and their end-of-study projects"
          - task: "Guide and assist trainees in the technical writing of their graduation dissertations"
 
-    comp: "Additional informations"
+    comp: "Additional information"
     complemes:
-      - info: "Moroccan driving licence"
+      - info: "Moroccan driving license"
         corp: "Category (B) issued on 13/06/2013"
 
       #- info: "Quebec selection certificate"
@@ -360,7 +360,7 @@ stages:
          - task: "Respond and process customer service requests and complaints"
          - task: "Intervene and provide problems detection and resolution service"
          - task: "Monitor incidents and anomalies of production servers for client"
-         - task: "Sell computer hardwares and network equipments"
+         - task: "Sell computers hardware and network equipments"
          - task: "Maintain and repair computers and laptops"
 
     - title: "End of studies internship"
@@ -543,7 +543,7 @@ skills:
         level: "Java, C (Basics)"
 
     toolset6:
-      title: "Mastered softwares"
+      title: "Mastered software"
       nt:
       - name: "Remote maintenance & administration in CLI"
         level: "Team Viewer, DWService, Super PuTTY, mRemotNG"
@@ -557,7 +557,7 @@ skills:
         level: "Virtual Box, VMware Workstation Pro, QEMU emulator"
       - name: "Code editors"
         level: "Atom, Notepad++, Sublime Text, Visual Studio Code"
-      - name: "Networks emulators & simulators"
+      - name: "Network emulators & simulators"
         level: "GNS3, Cisco Packet Tracer"
 
     toolset7:
