@@ -10,8 +10,8 @@
       <header>
         {% if sidebar.name %}<img class="avatar" src="{{ site.baseurl }}/images/{{ sidebar.img }}" alt="{{ sidebar.pf }}" title="{{ sidebar.pf }}">{% endif %}
         {% if sidebar.name %}<br><h1 class="name">{{ sidebar.name }}</h1><br>{% endif %}
-        {% if sidebar.tagline0 %}<br class="t2"><h3 class="tagline0">{{ sidebar.tagline0 }}.</h3><br class="t2">{% endif %}
-        {% if sidebar.tagline1 %}<br><h3 class="tagline1">{{ sidebar.tagline1 }}.</h3>{% endif %}
+        {% if sidebar.tagline0 %}<br class="t2"><h3 class="tagline0">{{ sidebar.tagline0 }}</h3><br class="t2">{% endif %}
+        {% if sidebar.tagline1 %}<br><h3 class="tagline1">{{ sidebar.tagline1 }}</h3>{% endif %}
       </header>
 
       {% include contact.html %}
@@ -20,19 +20,19 @@
     <div class="glob">
       <nav>
         <div class="t11">
-          <div class="div-a" data-nosnippet>
+          <div class="div-a">
             <a href="{{ sidebar.linkfr }}">
               <img src="{{ site.baseurl }}/images/fr.svg" alt="{{ sidebar.altfr }}">
-              <span></span>
+              <p>{{ sidebar.fr }}</p>
             </a>
           </div>
         </div>
 
         <div class="t12">
-          <div class="div-a" data-nosnippet>
+          <div class="div-a">
             <a href="{{ sidebar.linken }}">
               <img src="{{ site.baseurl }}/images/en.svg" alt="{{ sidebar.alten }}">
-              <span></span>
+              <p>{{ sidebar.en }}</p>
             </a>
           </div>
         </div>
@@ -80,7 +80,7 @@
                     {% for n1 in project.tagline %}
                     <div class="n2">
                       <svg width="12" height="18" viewBox="0 -6 12 18"><circle cx="3" cy="3" r="3"/></svg>
-                      <p>{{ n1.task }}.&nbsp;</p>
+                      <p>{{ n1.task }}.</p>
                     </div>
                     {% endfor %}
                   </div>
@@ -106,7 +106,7 @@
 
     <footer>
       <p xmlns:cc="http://creativecommons.org/ns#" href="https://www.linkedin.com/in/abdelhafid-elazouzi/" property="cc:attributionName" rel="cc:attributionURL">{{ sidebar.design }}.</p>
-      <p>{{ sidebar.droit }} - {{ site.time | date: '%Y' }}.</p>
+      <p>{{ sidebar.droit }} - <span class="oldtime"></span><script>var d = new Date(); var c = d.getUTCFullYear(); $(".oldtime").text(c);</script>.</p>
       <hr>
       <p class="pbr" xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">{{ sidebar.cont }}
         <a rel="license" href="{{ sidebar.lic }}" target="_blank"><img alt="Licence Creative Commons" src="{{ site.baseurl }}/images/(CC) BY-NC-SA.png" title="Licence Creative Commons"></a> :
