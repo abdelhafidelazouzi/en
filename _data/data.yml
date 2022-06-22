@@ -162,7 +162,7 @@ edu: "Educations"
 education:
     - degree: "Certificate of course completion (Cisco Networking Academy)"
       linkdeg: "https://www.netacad.com"
-      time: "04/2020 to 05/2020"
+      time: "05/2020 to 02/2022"
       details:
               - dipname: "Introduction to Cybersecurity"
                 linkdip: "en-AbdelhafidELAZOUZI-Introduction to Cybersecurity.pdf"
