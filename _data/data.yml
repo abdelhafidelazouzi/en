@@ -679,7 +679,6 @@ skills:
       - name: "Firewalls"
         level: "Pfsense, Iptables"
 
-
     toolset12:
       title: "Mastered equipments"
       nt:
@@ -701,9 +700,9 @@ skills:
         level: "Fortigate 401E"
 
     toolset13:
-      - name: "Administration of network equipments & protocols"
-        level: "STP, VTP, CDP, LLDP, EtherChannel, Port Security, VLAN, VMPS, <br>802.1Q, 802.1x, DHCP, HSRP, NAT, PPP, Frame Relay, RIP, EIGRP, OSPF, ACL, IPSEC, SSH, SNMP, HTTPS, AAA"
+      - name: "Administration of network services"
+        level: "HTTP/HTTPS, FTP/SFTP, DHCP, RADVD, DNS, DDNS, SSH, SCP, Samba, <br>NFS, OpenVPN, PKI, RDP/VNC, Active Directory/OpenLDAP, KDC Kerberos, Syslog, FreeRADIUS, Postfix"
 
     toolset14:
-      - name: "Administration of network services & protocols"
-        level: "HTTP/HTTPS, FTP/SFTP, RADVD, DHCP, OpenVPN, PKI, DNS, DDNS, <br>SSH, SCP, Samba, NFS, Postfix, KDC Kerberos, Syslog, Active Directory/OpenLDAP, FreeRADIUS, RDP/VNC"
+      - name: "Administration of network protocols"
+        level: "STP, VTP, CDP, LLDP, VLAN, VMPS, 802.1Q, HSRP, NAT, PPP, <br>Frame Relay, RIP, EIGRP, OSPF, ACL, IPSEC, SNMP, AAA, EtherChannel, Port Security"
