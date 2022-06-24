@@ -93,7 +93,7 @@ sidebar:
 
     ben: "Volunteer activities"
     beneves:
-      - time: "01/2012 to 07/2022"
+      - time: "01/2012 to 06/2022"
         company: "National School of Applied Sciences (Marrakech) - Morocco, Cadi Ayyad University"
         details:
          - task: "Supervise and support students in their presentations of dissertations and their end-of-study projects"
@@ -107,8 +107,8 @@ sidebar:
       # - info: "Quebec driving license"
         # corp: "Class 5 issued on 13/06/2023"
 
-      # - info: "Comparative evaluation of studies outside Quebec"
-        # corp: "Issued on 05/07/2022"
+      - info: "Comparative evaluation for studies done outside Québec"
+        corp: "Issued on 06/06/2022"
 
       - info: "Extra-professional activities"
         details:
@@ -182,7 +182,7 @@ education:
       university: "Faculty of Sciences Semlalia (Marrakech) - Morocco, Cadi Ayyad University"
       linkuniv: "https://www.uca.ma/fssm"
       time: "09/2018 to 07/2019"
-      # equiv: "Equivalence in Quebec : Specialized baccalaureate, 1st university cycle"
+      equiv: "Equivalence in Québec : baccalaureate degree of first university cycle in computer science"
       # height animation
       mention: "Grade : Good"
       prix: "Award : Major of the promotion"
@@ -199,7 +199,7 @@ education:
       university: "Specialized Institute of Applied Technology NTIC Sidi Youssef Ben Ali (Marrakech) - Maroc, OFPPT"
       linkuniv: "https://www.ofppt.ma/en/institutions/specialized-institute-applied-technology-ntic-sidi-youssef-ben-ali-marrakech"
       time: "09/2009 to 07/2011"
-      #equiv: "Equivalence in Quebecc : Technical college diploma"
+      equiv: "Equivalence in Québec : College diploma of technical training in computer technology"
       mention: "Grade : Very good"
       prix: "Award : Major of promotion and excellence classes"
 #############################################################################################
@@ -360,7 +360,7 @@ experiences:
 
     - role: "System and network administrator"
       linkrole: "https://en.wikipedia.org/wiki/System_administrator"
-      time: "01/2012 to 07/2022"
+      time: "01/2012 to 06/2022"
       company: "National School of Applied Sciences (Marrakech) - Morocco, Cadi Ayyad University"
       linkcomp: "https://www.ensa.ac.ma"
       title: "Manage the IT and Network department"
